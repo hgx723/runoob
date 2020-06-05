@@ -1,3 +1,0 @@
-for practice git mv
-seconde
-third 
